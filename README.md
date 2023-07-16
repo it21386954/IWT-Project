@@ -1,5 +1,5 @@
 # MyProject
-#Diet Plan Management System
+Diet Plan Management System
 
 
 This project is a Diet Plan Management System designed to help individuals track and manage their dietary habits effectively. The system is developed using HTML, JavaScript, CSS, and hosted on a XAMPP server for easy access and implementation. It aims to provide users with a user-friendly interface to create personalized diet plans, monitor their progress, and achieve their health and fitness goals.
@@ -39,4 +39,4 @@ This project is a Diet Plan Management System designed to help individuals track
 - XAMPP server to host and manage the database.
 - PHP (optional) for server-side processing and communication.
 
-*Note: The actual project details and implementation may vary based on the developer's choices and requirements. The above description provides a general overview of a Diet Plan Management System developed using HTML, JavaScript, CSS, and hosted on a XAMPP server.*
+
