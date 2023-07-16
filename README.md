@@ -38,5 +38,10 @@ This project is a Diet Plan Management System designed to help individuals track
 - HTML, CSS, and JavaScript for the frontend development.
 - XAMPP server to host and manage the database.
 - PHP (optional) for server-side processing and communication.
+![Screenshot (15)](https://github.com/it21386954/MyProject/assets/99165392/d0cb98e8-848d-42ce-b16d-23fdc3942894)
+![Screenshot (11)](https://github.com/it21386954/MyProject/assets/99165392/03924c37-394c-4c11-8116-5d1d2a3b39a3)
+![Screenshot (12)](https://github.com/it21386954/MyProject/assets/99165392/0e84885e-0967-4d17-9616-8e9440db82c8)
+![Screenshot (13)](https://github.com/it21386954/MyProject/assets/99165392/ead5ba13-4b79-4542-a1ae-57053f1ffa6b)
+![Screenshot (14)](https://github.com/it21386954/MyProject/assets/99165392/3d921f56-4a28-4af0-a43b-4036a96023be)
 
 
