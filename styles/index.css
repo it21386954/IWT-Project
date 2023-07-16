@@ -1,0 +1,171 @@
+body{
+ background-image: url("../image/testimonial-bg.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #04AA6D ;
+}
+script {
+  display: none;
+  
+}
+
+/*logo*/
+
+.logo{
+display: block;
+ margin-left: left;
+ margin-right: auto;
+ width: auto;
+ 
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  
+}
+h3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.hrl {
+  border-top: 1px solid black;
+  
+}
+ul.menu{
+	list-style-type:none;
+	margin:0%;
+	padding:0%;
+	overflow:hidden;
+	background-color:#34495E;
+	overflow:hidden;
+}
+li.menu{
+	
+	loat:left;
+}
+li a{
+	display:block;
+	color:white;
+	text-align:center;
+	padding:12px 14px;
+	text-decoration:none;
+}
+li a:hover{
+	background-color:lightblue;
+}
+
+
+h1.goal{
+
+	background-color:lightblue;
+	padding:10px;
+	text-align:center;
+	margin:5pxl;
+	
+	text-align:center;
+	margin:left;
+	
+}
+div.near {
+	color:green;
+  width: 200px;
+  height: 20px;
+  background-color: none;
+  position: relative;
+  animation-name: example;
+  animation-duration: 10s;
+  animation-iteration-count: infinite;
+  margin:20px;
+  font-size:20px;
+}
+
+@keyframes example {
+  0%   {background-color:none; left:5px; top:5px;}
+  25%  {background-color:none; left:1000px; top:5px;}
+  
+}
+
+div.goal {
+	color:brown;
+  width: 100px;
+  height: 20px;
+  background-color: none;
+  position: relative;
+  animation-name: example;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  margin:20px;
+  font-family: cursive;
+  font-size:20px;
+}
+
+@keyframes example {
+  0%   {background-color:none; left:5px; top:5px;}
+  25%  {background-color:none; left:1000px; top:5px;}
+  
+}
+/* BMI calculater*/
+fieldset{
+	background-color: #34495E;
+	margin:40px;
+	border-color: black;
+  border-style: solid;
+  background-size: cover;
+  font-size:20px;
+  
+  
+}
+
+div.color{
+	background-color:black;
+}
+
+
+
+ {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  
+}
+
+
+
+
+
+

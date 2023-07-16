@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>bmi</title>
+	<link rel="stylesheet" href="styles/index.css">
+	<script src="js/BMIscript.js"></script>
+	
+	
+	<h4 style="color:#FDFEFE ;">
+<p id="demo"></p>
+</h4> 
+
+</head>
+<body>
+<script>
+document.getElementById("demo").innerHTML = Date();
+
+</script>
+
+<a href="index.html">
+<img class="logo"src="Image/11.png" alt="logo" width="100px" height="100px">
+</a>	
+
+<ul class="menu">
+
+	<li class="menu"><a href="index.html">HOME</a></li>
+	<li class="menu"><a href="register.html">Register</a></li>
+	<li class="menu"><a href="bmi.html">BMI</a></li>
+	<li class="menu"><a href="contact.html">CONTACT</a></li>
+	<li class="menu"><a href="aboutus.html">ABOUTUS</a></li>
+	
+</ul>
+	
+
+
+
+<body>
+
+	<div>
+	<fieldset>
+	     <h4>
+		<p id="intro">Calculate your BMI (body mass index) by using the form below. Enter your weight and height and click the Calculate button to display your BMI result.</p></h4>
+		<form action="none" method="post" name="bmiform">
+			<fieldset>
+			<legend>Height and Weight</legend>
+				<label for="pounds">Weight (pounds):</label>
+				<input type="text" name="pounds" id="pounds">
+				<br>
+				<label for="inches">Height (inches):</label>
+				<input type="text" name="inches" id="inches">
+				<br>
+				<button type="button" name="calculate" value="Calculate your BMI" onclick="calcBMI()">Calculate your BMI</button>
+			</fieldset>
+			<fieldset>
+			<legend>BMI</legend>
+				<label for="bmi" id="bmi_label">Your calculated BMI is:</label>
+				<input type="text" name="bmi" id="bmi" readonly="readonly">
+			</fieldset>
+			</fieldset>
+		</form>
+	</div>
+</body>
+
+
+
+	</body>
+	
+</html>
+	
+
+	
