@@ -12,19 +12,10 @@ This project is a Diet Plan Management System designed to help individuals track
 
 3. **Food Database:** The system contains a comprehensive database of various food items with nutritional information (calories, macronutrients, vitamins, etc.).
 
-4. **Meal Tracking:** Users can track their daily meals and input the food items they consume, and the system will calculate the total calories and nutrients.
+4. **BMI Calculator:** An integrated BMI (Body Mass Index) calculator helps users assess their current health status and set realistic weight goals.
 
-5. **Progress Monitoring:** The system provides users with visual representations of their progress, such as charts and graphs, to help them understand their dietary trends and improvements.
+5. **Tips and Recommendations:** The system can provide users with health tips, recipe suggestions, and dietary recommendations based on their goals and preferences.
 
-6. **Goal Setting:** Users can set specific health and fitness goals, such as weight loss, muscle gain, or maintenance, and the system will help them plan their meals accordingly.
-
-7. **Reminders and Notifications:** The system can send reminders and notifications to users to ensure they follow their diet plans consistently.
-
-8. **BMI Calculator:** An integrated BMI (Body Mass Index) calculator helps users assess their current health status and set realistic weight goals.
-
-9. **Tips and Recommendations:** The system can provide users with health tips, recipe suggestions, and dietary recommendations based on their goals and preferences.
-
-10. **Data Privacy and Security:** The project ensures the confidentiality and security of user data through encryption and secure database management.
 
 **Benefits:**
 
